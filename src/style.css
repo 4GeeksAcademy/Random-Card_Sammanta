@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.\&diams\;,.\&hearts\; {
+    color: red;
+    }
+
+    
+   .container {
+       border: solid;
+       width: 309px;
+       height: 447px;
+       border-radius: 35px;
+       font-size: 555%;
+       background-color: beige;
+   }
+
+   #thesymbol2{
+       rotate: -180deg;
+   }
+   body{
+       background-color: green;
+   }
+       
