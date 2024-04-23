@@ -29,5 +29,4 @@ function randomCards() {
   document.getElementById("thesymbol").innerHTML = symbols[randomSymbols];
   document.getElementById("mynumber").innerHTML = numbers[randomNumbers];
   document.getElementById("thesymbol2").innerHTML = symbols[randomSymbols];
-  setTimeout(randomCards, 9000);
 }
